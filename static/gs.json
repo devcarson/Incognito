@@ -246,5 +246,11 @@
       "location": "./load.html#em9tYnNyb3lhbGUuaW8%3D",
       "title": "ZombsRoyale.io",
       "category": "multi"
+    },
+    {
+      "img": "./img/gs/drift.png",
+      "location": "/source/drift",
+      "title": "Drift Hunters",
+      "category": "web"
     }
   ]
